@@ -1,0 +1,6 @@
+{
+  "name": "Киберпанк Idle v1.2",
+  "description": "Киберпанковая Idle-игра. Взламывайте системы, собирайте детали, создавайте оружие и сражайтесь с врагами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
